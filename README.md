@@ -30,11 +30,11 @@ This project is a web application designed to display the shortest path between 
 * Click on the "Find Path" button to display the shortest path between the two points.
 
 ## Frontend 
-
+<img width="1433" alt="image1" src="https://github.com/HemangGautam08/IITG-Pathfinder/blob/main/assets/Screenshot%202025-06-20%20at%2011.47.32%E2%80%AFAM.png">
 
 ## Example
 
 * If you entered your starting point 2 and ending point 51 then it will show you the path with shortest distance from the sorce i.e. 2 to destination i.e. 51.
-
+<img width="1440" alt="image2" src="https://github.com/HemangGautam08/IITG-Pathfinder/blob/main/assets/Screenshot%202025-06-20%20at%2011.47.06%E2%80%AFAM.png">
 
  
