@@ -24,7 +24,25 @@ This project is a web application designed to display the shortest path between 
 
 ## Usage
 
-* Open the React app in your browser.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/HemangGautam08/IITG-Pathfinder.git
+   cd IITG-Pathfinder
+2. **Set up the Python backend**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate 
+    pip install flask flask-cors
+3. **Start the backend server**    
+    ```bash 
+    python server.py
+4. **Set up & launch the React frontend**
+    ```bash
+    npm install
+    npm start
+
+
+
 * You will see a map of IIT Guwahati.
 * Select the start and end points on the map.
 * Click on the "Find Path" button to display the shortest path between the two points.
