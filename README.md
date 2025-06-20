@@ -41,8 +41,6 @@ This project is a web application designed to display the shortest path between 
     npm install
     npm start
 
-
-
 * You will see a map of IIT Guwahati.
 * Select the start and end points on the map.
 * Click on the "Find Path" button to display the shortest path between the two points.
