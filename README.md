@@ -30,7 +30,7 @@ This project is a web application designed to display the shortest path between 
    cd IITG-Pathfinder
 2. **Set up the Python backend**
     ```bash
-    python3 -m venv venv
+    python -m venv venv
     source venv/bin/activate 
     pip install flask flask-cors
 3. **Start the backend server**    
