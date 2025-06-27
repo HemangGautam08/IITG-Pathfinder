@@ -15,7 +15,6 @@ This project is a web application designed to display the shortest path between 
 
 
 
-
 ## Prerequisites
 
 * Node.js and npm installed.
